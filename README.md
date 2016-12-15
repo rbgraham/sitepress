@@ -1,5 +1,7 @@
 # Sitepress
 
+[Sitepress]!(logo.svg)
+
 Sitepress is a file-backed website content manager that can be embedded in popular web frameworks like Rails, run stand-alone, or be compiled into static sites. Its useful for marketing pages or small websites that you need to deploy within your web frameworks.
 
 [![Build Status](https://travis-ci.org/sitepress/sitepress.svg?branch=master)](https://travis-ci.org/sitepress/sitepress) [![Code Climate](https://codeclimate.com/github/sitepress/sitepress/badges/gpa.svg)](https://codeclimate.com/github/sitepress/sitepress)
